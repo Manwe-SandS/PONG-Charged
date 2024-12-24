@@ -6,8 +6,9 @@ Started as a demonstration of upcoming JoyVox hardware
 
 Default keyboard settings:
 
-`     W - move up
-     S - move down`
+`     W - move up`
+
+`     S - move down`
 
 `Ctrl+W - accelerated move up`
 
