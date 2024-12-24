@@ -6,17 +6,17 @@ Started as a demonstration of upcoming JoyVox hardware
 
 Default keyboard settings:
 
-`     W `- move up
+`     W - move up`
 
-`     S `- move down
+`     S - move down`
 
-`Ctrl+W `- accelerated move up
+`Ctrl+W - accelerated move up`
 
-`Ctrl+S `- accelerated move down
+`Ctrl+S - accelerated move down`
 
-` Space `- power hit
+` Space - power hit`
 
-` Clear `- pause
+` Clear - pause`
 
 Game features:
 - 10 levels with different A.I. algorithms for computer rival
