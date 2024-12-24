@@ -5,11 +5,17 @@ Started as a demonstration of upcoming JoyVox hardware
 2019. Finished for DiHalt game competition in Jan 2021.
 
 Default keyboard settings:
+
 `     W `- move up
+
 `     S `- move down
+
 `Ctrl+W `- accelerated move up
+
 `Ctrl+S `- accelerated move down
+
 ` Space `- power hit
+
 ` Clear `- pause
 
 Game features:
