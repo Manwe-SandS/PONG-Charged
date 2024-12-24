@@ -6,6 +6,8 @@ Started as a demonstration of upcoming [JoyVox](http://hardware.thesands.ru) har
 (2 NES gamepads adapter plus stereo Covox) in February
 2019. Finished for DiHalt game competition in Jan 2021.
 
+Download: [BIN](https://github.com/Manwe-SandS/PONG-Charged/releases/download/PDP11/PONG.bin)
+
 The game works on both BK-0010 and BK-0011M computers. You can even load [WAV](https://github.com/Manwe-SandS/PONG-Charged/releases/download/PDP11/PONG.wav) on BK-0011M without floppy disk drive. To do that, press the Space key on your BK, then turn it on, and hold the Space key until you see the @ promt. Otherwise the stack pointer will be set to address 2000 and ruin the loaded game (its loading address is 1000).
 
 Default keyboard settings:
